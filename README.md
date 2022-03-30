@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, Android**
 
-- 👯 I’m looking to collaborate on **Open Source Projects **
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **haresh6997@gmail.com**
 
