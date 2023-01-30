@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haresh</h1>
-<h3 align="center">Developer( I guess)/Gamer</h3>
+<h3 align="center">Developer(I guess)</h3>
 
 - 🌱 I’m currently learning **C#, Android**
 
